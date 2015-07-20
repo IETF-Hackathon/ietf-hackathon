@@ -1,2 +1,2 @@
 # ietf-hackathon
-Repository for sharing code at IETF hackathons
+Repository for sharing code, presentations, and other artifacts at IETF hackathons
