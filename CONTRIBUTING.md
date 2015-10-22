@@ -1,4 +1,10 @@
-# Note Well
+# Contributing to IETF Hackathon project
+
+Participation in IETF hackathons and contributing to this project is open to everyone. All participation and any contribution is subject to the IETF Note Well and the IPR and Code Contribution Guideline.
+
+[TOC]
+
+## Note Well
 
 Any submission to the IETF intended by the Contributor for publication as all or part of an IETF Internet-Draft or RFC and any statement made within the context of an IETF activity is considered an "IETF Contribution". Such statements include oral statements in IETF sessions, as well as written and electronic communications made at any time or place, which are addressed to:
 
@@ -17,3 +23,7 @@ Statements made outside of an IETF session, mailing list or other function, that
 A participant in any IETF activity is deemed to accept all IETF rules of process, as documented in Best Current Practices RFCs and IESG Statements.
 
 A participant in any IETF activity acknowledges that written, audio and video records of meetings may be made and may be available to the public.
+
+## IPR and Code Contribution Guideline
+
+All hackathon participants are free to work on any code. The rules regarding that code are what each participant's organization and/or open source project says they are. The code itself is not an IETF contribution. Discussions, presentations, and demos done as part of the hackathon are the same type of IETF contributions as those made in working groups; therefore, the usual IETF copyright and/or IPR disclosure rules apply.
