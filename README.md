@@ -1,5 +1,6 @@
 # IETF Hackathon
 Repository for sharing code, presentations, and other artifacts at IETF hackathons.
+Note that from IETF 95 onward, https://datatracker.ietf.org/group/hackathon/meetings/ is the location used to share hackathon presentations, and code is shared using project specific repositories that may exist within the IETF-Hackathon github organization or elsewhere.
 
 ## Overview
 IETF Hackathons encourage developers to collaborate and develop utilities, ideas, sample code and solutions that show practical implementations of IETF standards.
